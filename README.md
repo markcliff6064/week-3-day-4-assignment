@@ -52,16 +52,19 @@ This assignment demonstrates basic Git workflows including branching, merging, c
 - Committed the changes.
 - Pushed the branch to GitHub.
 - Created a Pull Request.
-
+## reason for pulling a request 
+I added a description.
+Clarified the explanation of forking a repository by adding details about editing restrictions in open-source projects.
+It enables the understanding of 'why fork'.
 ### Pull Request Screenshot
 
-![Pull Request](screenshots/pull-request.png)
+![Pull Request](https://github.com/markcliff6064/week-3-day-4-assignment/blob/f838d2e17ce4266c03042d451751cdf9ec827068/1.2.jpg)
 
 ### Pull Request
 
 Add your GitHub Pull Request link here.
 
----
+https://github.com/octocat/Spoon-Knife/pull/41803
 
 ## Technologies Used
 
