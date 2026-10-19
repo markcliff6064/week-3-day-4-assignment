@@ -39,7 +39,7 @@ This assignment demonstrates basic Git workflows including branching, merging, c
 
 ### Final Git Graph
 
-![Final Git Graph](s[creenshots/final-graph.png](https://github.com/markcliff6064/week-3-day-4-assignment/blob/8167fa43c605e5543f4716aed147429981dbd52c/1.1.jpg))
+![Final Git Graph](https://github.com/markcliff6064/week-3-day-4-assignment/blob/8167fa43c605e5543f4716aed147429981dbd52c/1.1.jpg)
 
 ---
 
